@@ -1,7 +1,7 @@
-System.register("bundle://Test/_virtual/Test",[],(function(){return{execute:function(){}}}));
+System.register("bundle://Sound/_virtual/Sound",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/Test', 'bundle://Test/_virtual/Test'); 
+  r('virtual:///prerequisite-imports/Sound', 'bundle://Sound/_virtual/Sound'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
